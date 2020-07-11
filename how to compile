@@ -1,0 +1,2 @@
+gcc *.c -lm -o test2
+
